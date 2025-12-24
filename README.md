@@ -31,8 +31,7 @@ Analisa URLs suspeitas buscando padrões de golpes comuns:
 - **Lógica:** Estruturas condicionais, Loops, Manipulação de Strings e Regex.
 - **Design:** Códigos de escape ANSI para coloração de terminal e animações de delay.
 
-## 📸 Screenshots
-*(Coloque aqui um print do seu terminal rodando o programa)*
+
 
 ---
-Desenvolvido por [Seu Nome] 👩‍💻
+Desenvolvido por Luisa Laura 👩‍💻
